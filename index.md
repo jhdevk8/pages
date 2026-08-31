@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
-just go
+h1:just go
 ---
